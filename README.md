@@ -1,5 +1,5 @@
 # magento223
-
+HOW TO ADD A PROJECT ON GITHUB
 => Create new repository in Git interface to get the git url 'https://github.com/sona-sid/magento223.git'
 
 	* Create a new repository on the command line
