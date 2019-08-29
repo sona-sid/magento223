@@ -49,7 +49,10 @@
 							> Settings > SSH and GPG Keys (or https://github.com/settings/keys )
 							> Click 'New SSH Key' and paste the copied SSH key file content in the field Key.
 							> In the "Title" field, add a descriptive label for the new key. (to denote the machine on which key used)
-
-* push an existing repository from the command line
+	
+	* push an existing repository from the command line
 	git remote add origin https://github.com/sona-titech/testm2.git
 	git push -u origin master
+							
+
+
